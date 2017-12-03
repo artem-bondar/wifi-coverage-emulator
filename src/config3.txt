@@ -1,0 +1,11 @@
+Model: flat.obj
+Router position: 14000.0 0.0 1750.0
+Router power: 100.0
+Maximum rays: 3000
+Camera position: 10000.0 0.0 10000.0
+Camera view direction: 0.0 0.0 -0.88
+Camera up direction: 0.0 -1.0 0.0
+Camera right direction: -1.0 0.0 0.0
+Camera FOV angles: 90 80
+Resolution: 800 600
+OpenMP: 1
